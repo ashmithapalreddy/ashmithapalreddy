@@ -10,7 +10,7 @@ Currently affiliated with **IIT Madras**, **NIT Srinagar** & **FOSS United**.
 
 ### 🌐 Connect with me  
 - LinkedIn: [Ashmitha Reddy Palreddy](https://www.linkedin.com/in/ashmitha-reddy-palreddy-224733347/)  
-- GitHub: [Ashmitha Palreddy] (https://github.com/ashmithapalreddy) (you are here!)  
+- GitHub: [Ashmitha Reddy Palreddy](https://github.com/ashmithapalreddy) (you are here!)  
 
 ### 🔧 What I’m Learning  
 - Dive deeper into web development (Frontend: HTML, CSS, JavaScript)  
